@@ -66,7 +66,7 @@
      --lr LR               initial learning rate(default: 0.001)
      --epochs N            number of total epochs to run(default: 20)
      --batchsize N         batchsize (default: 8)
-  --gpu-id GPU_ID       id(s) for CUDA_VISIBLE_DEVICES
+     --gpu-id GPU_ID       id(s) for CUDA_VISIBLE_DEVICES
    ```
 
    例如：
